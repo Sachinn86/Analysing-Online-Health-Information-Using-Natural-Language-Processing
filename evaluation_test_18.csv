@@ -1,0 +1,19 @@
+claim,best_reference_text,human_label,notes
+Smoking causes lung cancer,Smoking is a major cause of lung cancer and significantly increases cancer risk.,consistent,direct match
+Vaccination reduces the risk of infectious disease,Vaccines help prevent infectious diseases and reduce severe illness.,consistent,direct match
+Type 2 diabetes leads to high blood sugar,Type 2 diabetes causes blood sugar levels to become too high.,consistent,direct match
+Regular exercise helps lower blood pressure,Regular exercise lowers blood pressure and improves cardiovascular health.,consistent,direct match
+Obesity increases the risk of heart disease,Obesity increases the risk of serious conditions including heart disease.,consistent,direct match
+Alcohol consumption increases cancer risk,Alcohol is classified as a carcinogen and increases the risk of several cancers.,consistent,direct match
+Healthy diet improves immunity,A healthy diet supports overall health and helps the body function properly.,partially aligned,same topic but general
+Exercise improves mental health,Physical activity can help improve mood and reduce symptoms of anxiety.,partially aligned,related but not exact
+Omega-3 fats help heart health,Healthy fats contribute to cardiovascular health as part of a balanced diet.,partially aligned,same topic but general
+Stress affects physical health,Long-term stress can affect the body and contribute to health problems.,partially aligned,general support
+Vaccines improve public health,Vaccination helps reduce disease spread and protects vulnerable groups.,partially aligned,broad support
+Diet influences cholesterol levels,Eating a low-fat diet with fibre can help lower cholesterol and heart disease risk.,partially aligned,related but not exact
+Coffee cures cancer,Cancer is caused by complex genetic and environmental factors and requires evidence-based treatment.,inconsistent,unsupported claim
+Vaccines cause autism,Vaccines are effective in preventing infectious disease and no reliable evidence supports this claim.,inconsistent,false claim
+Sugar directly causes COVID-19,COVID-19 is caused by the SARS-CoV-2 virus and spreads through respiratory droplets.,inconsistent,topic mismatch
+Pregnancy can be cured with antibiotics,Antibiotics are used to treat bacterial infections and are not a treatment for pregnancy.,inconsistent,different focus
+Alcohol improves memory and brain performance,Alcohol affects brain chemistry and can negatively affect mental and physical health.,inconsistent,contradictory meaning
+Weight loss surgery is the same as vaccination,"Vaccination prevents infectious disease, while surgery is a medical procedure used for obesity treatment.",inconsistent,unrelated concepts
